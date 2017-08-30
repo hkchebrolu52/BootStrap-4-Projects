@@ -1,0 +1,7 @@
+@media (max-width: 576px) {
+  nav .container {
+    width: 100%; }
+    nav .container .navbar-brand {
+      margin-left: 30px; }
+    nav .container .nav-link {
+      margin: 0px; } }
